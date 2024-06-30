@@ -1,0 +1,169 @@
+{
+    "work_experience": [
+      {
+        "title": "Field Operations Officer (Census 2022 Project)",
+        "company": "Stats SA",
+        "period": "December 2021 – April 2022",
+        "duties": [
+          "Profile Enumeration Areas (EAs) within the allocated Field Operation Officer (FOO) unit.",
+          "Conduct training of Fieldworkers, CATI Clerk Enumerators and Fieldworkers Supervisors on Census 2022 Methodologies, processes, and procedures.",
+          "Assist Fieldworker Supervisors (FWS) and Fieldworkers (FWs) with admin, logistics, technical support and intervene where there is no access.",
+          "Conduct any other duty assigned by the District Census Coordinator (DCC).",
+          "Issue all specified materials during training and data collection and update on Field Logistics System.",
+          "Sign off work completed for FWS and FWs at the end of enumeration."
+        ]
+      }
+    ],
+    "education": {
+      "present": {
+        "degree": "Bachelor of Science in Computing",
+        "institution": "University of South Africa",
+        "status": "Final Year",
+        "modules": [
+          "Theoretical Computer Science",
+          "Advanced Programming (C++)",
+          "Computer Systems",
+          "Introduction to Business Information Systems",
+          "Visual Programming (Python)",
+          "Human-Computer Interaction",
+          "Linear Algebra",
+          "Computer Organisation",
+          "Computer Networks",
+          "Advanced Systems Development",
+          "Databases",
+          "Introduction to Statistics",
+          "Formal logic",
+          "Computer Graphics",
+          "Operating Systems and Architecture",
+          "Database Design and Management",
+          "Techniques of Artificial Intelligence"
+        ]
+      },
+      "completed": [
+        {
+          "certificate": "Higher Certificate in Mathematics and Statistics",
+          "institution": "University of South Africa",
+          "period": "January 2020 – December 2020"
+        },
+        {
+          "diploma": "National Diploma in Somatology",
+          "institution": "Cape Peninsula University of Technology",
+          "period": "January 2015 – December 2018"
+        },
+        {
+          "certificate": "National Senior Certificate",
+          "institution": "Vuyiseka Secondary School",
+          "courses": [
+            "Business Studies",
+            "Life Sciences",
+            "Mathematics",
+            "Geography",
+            "Life Orientation",
+            "English",
+            "IsiXhosa"
+          ]
+        }
+      ]
+    },
+    "current_learnership": {
+      "program": "Full Stack Web Development",
+      "institution": "Life Choices Academy",
+      "period": "April 2023 – September 2024",
+      "subjects": [
+        "Web Development",
+        "HTML",
+        "CSS",
+        "Bootstrap",
+        "JavaScript",
+        "Vue.js",
+        "Node.js",
+        "SQL"
+      ],
+      "portfolio": "portfolio-asandas-projects.vercel.app"
+    },
+    "professional_certificates": [
+      {
+        "certificate": "AWS Certified Solutions Architect – Associate (SAA-C03)",
+        "institution": "AWS training and certification"
+      }
+    ],
+    "technical_skills": {
+      "languages": [
+        "Python",
+        "C++",
+        "SQL"
+      ],
+      "web_development": [
+        "HTML",
+        "CSS",
+        "Bootstrap",
+        "JavaScript",
+        "Vue.js",
+        "Node.js"
+      ],
+      "database_management": [
+        "Oracle SQL Developer",
+        "SQL* Plus",
+        "MySQL"
+      ],
+      "cloud_based_technologies": [
+        "AWS"
+      ]
+    },
+    "additional_experience": [
+      "Completed the Summer and Winter Program for AWS Cloud Support Associate Immersion, gaining in-depth knowledge of AWS services and their practical applications.",
+      "Successfully participated in a group project where we developed a web application using various AWS services.",
+      "Demonstrated acquired skills by passing the AWS Certified Solutions Architect Associate exam following the program."
+    ],
+    "skills": [
+      "Analytical thinking",
+      "Attention to detail",
+      "Excellent communication skills (both verbal and written)",
+      "Adaptability and willingness to learn"
+    ],
+    "references": {
+      "stats_sa": [
+        {
+          "name": "Mr Nelani Mathenjwa",
+          "position": "District Census Coordinator (DCC)",
+          "contact": "076 403 4346"
+        },
+        {
+          "name": "Mr Mahier Hattas",
+          "position": "Field Operations Director",
+          "contact": "021 481 5500 / 079 510 3249"
+        }
+      ]
+    },
+    "aboutMe": {
+      "text": "I am currently in my final year at the University of South Africa, pursuing a BSc in Computing. I am a highly motivated and driven individual who loves to learn and challenge myself. Last year, I completed the Amazon Web Services (AWS) Cloud Support Immersion Program, where I gained an in-depth understanding of cloud computing and earned the AWS Solution Architect Associate certificate. In addition to my academic pursuits, I am also part of the Life Choices Academy, where I learn skills in HTML, CSS, Bootstrap, JavaScript, Vue.js, and more. This experience has strengthened my foundation in web development and design. I am deeply passionate about the power of modern technologies and their potential to transform lives and businesses. My interests include researching new technologies, programming, and exploring innovative ways to utilize data effectively."
+    },
+    "testimonials": [
+      {
+        "author": "Caitlin Dalwai",
+        "text": "Being part of the same class as Asanda at Life Choices Academy has been an incredibly enriching experience for me as a person learning code. Asanda consistently demonstrates a deep understanding of technical concepts and techniques. Their willingness to share their knowledge and expertise has been valuable in our class discussions and collaborative projects.",
+        "image": "https://asandam.github.io/images/caitlin.png"
+      },
+      {
+        "author": "Olwethu Malumla",
+        "text": "Asanda Mehlo has a unique ability to approach complex problems with a clear and level head, and her analytical skills are outstanding. She is always well-prepared, and her contributions to class discussions are thoughtful and insightful. Throughout our time in class, Asanda has consistently demonstrated a deep understanding of the material, often offering insightful perspectives and thoughtful questions that enriched our discussions.",
+        "image": "https://asandam.github.io/images/olwethu.png"
+      },
+      {
+        "author": "Keegan Niekerk",
+        "text": "A very talented and committed individual who strives for the best and who doesn't back down from a challenge. Asanda is definitely someone you would like to have in your team, because of the level of dedication she brings to her work.",
+        "image": "https://asandam.github.io/images/keegan.png"
+      },
+      {
+        "author": "Siphokuhle Nyana",
+        "text": "I had the pleasure of being in the same class as Asanda this semester, and I must say, their dedication to their studies and collaborative spirit truly stood out to me. Asanda's insightful contributions in class discussions enriched our learning experience, and I always admired their ability to think critically and offer fresh perspectives on complex topics. Overall, she is a valuable asset to any academic setting, and I feel grateful to have had the opportunity to learn alongside such a talented individual.",
+        "image": "https://asandam.github.io/images/sphokuhle.png"
+      },
+      {
+        "author": "Kayden Hendricks",
+        "text": "Working alongside Asanda has been an absolute pleasure. Her dedication, professionalism, and unwavering commitment to excellence make them an invaluable asset to any team or project. Asanda consistently demonstrates exceptional problem-solving skills, an innovative mindset, and a remarkable ability to collaborate effectively with colleagues. Beyond her impressive technical proficiency, Asanda brings a warmth and positivity to the workplace that uplifts everyone around them.",
+        "image": "https://asandam.github.io/images/kayden.png"
+      }
+    ]
+  }
+  
