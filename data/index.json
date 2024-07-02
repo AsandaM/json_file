@@ -78,13 +78,24 @@
         "Vue.js",
         "Node.js",
         "SQL"
-      ],
-      "portfolio": "portfolio-asandas-projects.vercel.app"
+      ]
     },
     "professional_certificates": [
       {
+        "certificate": "AWS Academy Cloud Foundations",
+        "image": "https://asandam.github.io/images/awsfoundation.png"
+      },
+      {
         "certificate": "AWS Certified Solutions Architect – Associate (SAA-C03)",
-        "institution": "AWS training and certification"
+        "image": "https://asandam.github.io/images/awsbadge.png"
+      },
+      {
+        "certificate": "Networking Basics",
+        "image": "https://asandam.github.io/images/networking.png"
+      },
+      {
+        "certificate": "Introduction to Cybersecurity",
+        "image": "https://asandam.github.io/images/cybersecurity.png"
       }
     ],
     "technical_skills": {
@@ -163,6 +174,32 @@
         "author": "Kayden Hendricks",
         "text": "Working alongside Asanda has been an absolute pleasure. Her dedication, professionalism, and unwavering commitment to excellence make them an invaluable asset to any team or project. Asanda consistently demonstrates exceptional problem-solving skills, an innovative mindset, and a remarkable ability to collaborate effectively with colleagues. Beyond her impressive technical proficiency, Asanda brings a warmth and positivity to the workplace that uplifts everyone around them.",
         "image": "https://asandam.github.io/images/kayden.png"
+      }
+    ],
+    "projects": [
+      {
+        "image":"https://asandam.github.io/images/calculator.gif",
+        "description": "This is a non-functional calculator layout designed using HTML and CSS."
+      },
+      {
+        "image":"https://asandam.github.io/images/keyboard.gif",
+        "description": "This is a non-functional keyboard layout designed using HTML and CSS."
+      },
+      {
+        "image":"https://asandam.github.io/images/wild.png",
+        "description": "This project involved recreating a page using Bootstrap."
+      },
+      {
+        "image":"https://asandam.github.io/images/icons8-css-100.png",
+        "description": "Practising CSS and HTML to design and style web elements."
+      },
+      {
+        "image":"https://asandam.github.io/images/task2.png",
+        "description": "Practising CSS and HTML to design and style web elements."
+      },
+      {
+        "image":"https://asandam.github.io/images/calculator.gif",
+        "description": "This is a non-functional calculator layout designed using HTML and CSS."
       }
     ]
   }
