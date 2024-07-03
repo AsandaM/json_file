@@ -15,7 +15,7 @@
       }
     ],
     "education": {
-      "present": {
+      "present": [{
         "degree": "Bachelor of Science in Computing",
         "institution": "University of South Africa",
         "status": "Final Year",
@@ -38,20 +38,20 @@
           "Database Design and Management",
           "Techniques of Artificial Intelligence"
         ]
-      },
+    }],
       "completed": [
         {
-          "certificate": "Higher Certificate in Mathematics and Statistics",
+          "qualification": "Higher Certificate in Mathematics and Statistics",
           "institution": "University of South Africa",
           "period": "January 2020 – December 2020"
         },
         {
-          "diploma": "National Diploma in Somatology",
+          "qualification": "National Diploma in Somatology",
           "institution": "Cape Peninsula University of Technology",
           "period": "January 2015 – December 2018"
         },
         {
-          "certificate": "National Senior Certificate",
+          "qualification": "National Senior Certificate",
           "institution": "Vuyiseka Secondary School",
           "courses": [
             "Business Studies",
