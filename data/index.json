@@ -65,11 +65,12 @@
         }
       ]
     },
-    "current_learnership": {
-      "program": "Full Stack Web Development",
-      "institution": "Life Choices Academy",
-      "period": "April 2023 – September 2024",
-      "subjects": [
+    "current_learnership": [
+      {
+        "program": "Full Stack Web Development",
+        "institution": "Life Choices Academy",
+        "period": "April 2023 – September 2024",
+        "subjects": [
         "Web Development",
         "HTML",
         "CSS",
@@ -78,24 +79,29 @@
         "Vue.js",
         "Node.js",
         "SQL"
-      ]
-    },
+        ]
+      }  
+    ],
     "professional_certificates": [
       {
         "certificate": "AWS Academy Cloud Foundations",
-        "image": "https://asandam.github.io/images/awsfoundation.png"
+        "image": "https://asandam.github.io/images/awsfoundation.png",
+        "url":"https://www.credly.com/badges/1863125c-5779-403b-ab66-ec16e4fead3f/public_url"
       },
       {
         "certificate": "AWS Certified Solutions Architect – Associate (SAA-C03)",
-        "image": "https://asandam.github.io/images/awsbadge.png"
+        "image": "https://asandam.github.io/images/awsbadge.png",
+        "url": "https://www.credly.com/badges/edb7bad0-cead-46c5-99f8-4c200e171b20/public_url"
       },
       {
         "certificate": "Networking Basics",
-        "image": "https://asandam.github.io/images/networking.png"
+        "image": "https://asandam.github.io/images/networking.png",
+        "url": "https://www.credly.com/badges/7b3cadc9-e793-4661-bec4-50c9d1ae1f07/public_url"
       },
       {
         "certificate": "Introduction to Cybersecurity",
-        "image": "https://asandam.github.io/images/cybersecurity.png"
+        "image": "https://asandam.github.io/images/cybersecurity.png",
+        "url":"https://www.credly.com/badges/0d39c0a5-27b9-4766-a44f-cd9ab2dd9396/public_url"
       }
     ],
     "technical_skills": {
@@ -178,28 +184,52 @@
     ],
     "projects": [
       {
-        "image":"https://asandam.github.io/images/calculator.gif",
-        "description": "This is a non-functional calculator layout designed using HTML and CSS."
+        "image":"https://asandam.github.io/images/ecom.png",
+        "description": "Developed a dynamic Point-Of-Sale (POS) system with a user-friendly interface. Key features include product management, transaction processing, and local storage integration for data persistence.",
+        "github": "https://github.com/AsandaM/JS-EOMP.git",
+        "vercel": "https://js-eomp-eta.vercel.app/"
       },
       {
-        "image":"https://asandam.github.io/images/keyboard.gif",
-        "description": "This is a non-functional keyboard layout designed using HTML and CSS."
+        "image":"https://asandam.github.io/images/key.jpg",
+        "description": "Designed a non-functional Keyboard layout designed using HTML and CSS. This project focused on creating a visually appealing and responsive keyboard interface.",
+        "github": "https://github.com/AsandaM/Task4.git",
+        "vercel":"https://task4-liard.vercel.app/"
       },
       {
-        "image":"https://asandam.github.io/images/wild.png",
-        "description": "This project involved recreating a page using Bootstrap."
+        "image":"https://asandam.github.io/images/toDoList.png",
+        "description": "Developed a To-Do List application using JavaScript. Key features include adding items to the list, deleting items, and marking items as completed by scratching them out when ticked. ",
+        "github": "https://github.com/AsandaM/toDoList.git",
+        "vercel":"https://to-do-list-peach-eta.vercel.app/"
       },
       {
-        "image":"https://asandam.github.io/images/icons8-css-100.png",
-        "description": "Practising CSS and HTML to design and style web elements."
+        "image":"https://asandam.github.io/images/temp.png",
+        "description": "Developed a Temperature Converter application using JavaScript. This tool allows users to convert temperatures between Celsius, Fahrenheit, and Kelvin",
+        "github": "https://github.com/AsandaM/temperature.git",
+        "vercel": "https://temperature-one.vercel.app/"
       },
       {
-        "image":"https://asandam.github.io/images/task2.png",
-        "description": "Practising CSS and HTML to design and style web elements."
+        "image":"https://asandam.github.io/images/bmi.png",
+        "description": "Created a BMI Calculator using JavaScript. This application allow users to input their height and weight to calculate their BMI. Key features include real-time calculations, user input validation and categorizing BMI results into different health ranges.",
+        "github":"https://github.com/AsandaM/bmi.git",
+        "vercel":"https://bmi-teal.vercel.app/"
       },
       {
-        "image":"https://asandam.github.io/images/calculator.gif",
-        "description": "This is a non-functional calculator layout designed using HTML and CSS."
+        "image":"https://asandam.github.io/images/calc.jpg",
+        "description": "Designed a responsive Calculator layout designed using HTML, CSS and JavaScript. This project focused on creating a visually appealing and responsive calculator interface.",
+        "github": "https://github.com/AsandaM/Task3.git",
+        "vercel": "https://task3-teal-one.vercel.app/"
+      },
+      {
+        "image":"https://asandam.github.io/images/convertor.png",
+        "description": "Developed a Hex-RGB Converter application using JavaScript. This tool allows users to convert hexidecimal between RGB.",
+        "github": "https://github.com/AsandaM/hexToRGB.git",
+        "vercel": "https://hex-to-rgb-six.vercel.app/"
+      },
+      {
+        "image":"https://asandam.github.io/images/rgb.png",
+        "description": "Developed a RGB-Hex Converter application using JavaScript. This tool allows users to convert RGB between hexidecimal.",
+        "github": "https://github.com/AsandaM/RGBToHex.git",
+        "vercel": "https://rgb-to-hex-three.vercel.app/"
       }
     ]
   }
