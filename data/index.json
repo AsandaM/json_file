@@ -184,48 +184,56 @@
     ],
     "projects": [
       {
+        "name":"Point-Of-Sale (POS) system",
         "image":"https://asandam.github.io/images/ecom.png",
         "description": "Developed a dynamic Point-Of-Sale (POS) system with a user-friendly interface. Key features include product management, transaction processing, and local storage integration for data persistence.",
         "github": "https://github.com/AsandaM/JS-EOMP.git",
         "vercel": "https://js-eomp-eta.vercel.app/"
       },
       {
+        "name": "Keyboard",
         "image":"https://asandam.github.io/images/key.jpg",
         "description": "Designed a non-functional Keyboard layout designed using HTML and CSS. This project focused on creating a visually appealing and responsive keyboard interface.",
         "github": "https://github.com/AsandaM/Task4.git",
         "vercel":"https://task4-liard.vercel.app/"
       },
       {
+        "name": "To-Do List",
         "image":"https://asandam.github.io/images/toDoList.png",
         "description": "Developed a To-Do List application using JavaScript. Key features include adding items to the list, deleting items, and marking items as completed by scratching them out when ticked. ",
         "github": "https://github.com/AsandaM/toDoList.git",
         "vercel":"https://to-do-list-peach-eta.vercel.app/"
       },
       {
+        "name": "Temperature Converter",
         "image":"https://asandam.github.io/images/temp.png",
         "description": "Developed a Temperature Converter application using JavaScript. This tool allows users to convert temperatures between Celsius, Fahrenheit, and Kelvin",
         "github": "https://github.com/AsandaM/temperature.git",
         "vercel": "https://temperature-one.vercel.app/"
       },
       {
+        "name": "BMI Calculator",
         "image":"https://asandam.github.io/images/bmi.png",
         "description": "Created a BMI Calculator using JavaScript. This application allow users to input their height and weight to calculate their BMI. Key features include real-time calculations, user input validation and categorizing BMI results into different health ranges.",
         "github":"https://github.com/AsandaM/bmi.git",
         "vercel":"https://bmi-teal.vercel.app/"
       },
       {
+        "name": "Calculator",
         "image":"https://asandam.github.io/images/calc.jpg",
         "description": "Designed a responsive Calculator layout designed using HTML, CSS and JavaScript. This project focused on creating a visually appealing and responsive calculator interface.",
         "github": "https://github.com/AsandaM/Task3.git",
         "vercel": "https://task3-teal-one.vercel.app/"
       },
       {
+        "name": "Hex-to-RGB Converter",
         "image":"https://asandam.github.io/images/convertor.png",
         "description": "Developed a Hex-RGB Converter application using JavaScript. This tool allows users to convert hexidecimal between RGB.",
         "github": "https://github.com/AsandaM/hexToRGB.git",
         "vercel": "https://hex-to-rgb-six.vercel.app/"
       },
       {
+        "name": "RGB-to-Hex Converter",
         "image":"https://asandam.github.io/images/rgb.png",
         "description": "Developed a RGB-Hex Converter application using JavaScript. This tool allows users to convert RGB between hexidecimal.",
         "github": "https://github.com/AsandaM/RGBToHex.git",
