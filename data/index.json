@@ -196,11 +196,11 @@
         "vercel": "https://js-eomp-eta.vercel.app/"
       },
       {
-        "name": "Keyboard",
-        "image":"https://asandam.github.io/images/key.jpg",
-        "description": "Designed a non-functional Keyboard layout designed using HTML and CSS. This project focused on creating a visually appealing and responsive keyboard interface.",
-        "github": "https://github.com/AsandaM/Task4.git",
-        "vercel":"https://task4-liard.vercel.app/"
+        "name": "E-Commerce project",
+        "image":"https://asandam.github.io/images/images_capstone/nutrifynow.png",
+        "description": "Developed a complete e-commerce platform using Vue.js for the frontend and Node.js with Express.js for the backend. Implemented JWT-based user authentication and created a responsive design. Managed product inventory and shopping cart functionality, utilizing MySQL for data storage. This project enhanced my skills in full-stack development and RESTful API design.",
+        "github": "https://github.com/AsandaM/capstone-project.git",
+        "vercel":"https://capstone-ecommerce-3d5bf.web.app/"
       },
       {
         "name": "To-Do List",
