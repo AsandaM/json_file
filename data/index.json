@@ -189,6 +189,13 @@
     ],
     "projects": [
       {
+        "name": "E-Commerce project",
+        "image":"https://asandam.github.io/images/images_capstone/nutrifynow.png",
+        "description": "Developed an e-commerce platform with Vue.js frontend and Node.js/Express.js backend. Implemented JWT authentication and responsive design, utilizing MySQL for data storage. Enhanced skills in full-stack development and RESTful API design.",
+        "github": "https://github.com/AsandaM/capstone-project.git",
+        "vercel":"https://capstone-ecommerce-3d5bf.web.app/"
+      },
+      {
         "name":"Point-Of-Sale (POS) system",
         "image":"https://asandam.github.io/images/ecom.png",
         "description": "Developed a dynamic Point-Of-Sale (POS) system with a user-friendly interface. Key features include product management, transaction processing, and local storage integration for data persistence.",
@@ -196,18 +203,11 @@
         "vercel": "https://js-eomp-eta.vercel.app/"
       },
       {
-        "name": "E-Commerce project",
-        "image":"https://asandam.github.io/images/images_capstone/nutrifynow.png",
-        "description": "Developed a complete e-commerce platform using Vue.js for the frontend and Node.js with Express.js for the backend. Implemented JWT-based user authentication and created a responsive design. Managed product inventory and shopping cart functionality, utilizing MySQL for data storage. This project enhanced my skills in full-stack development and RESTful API design.",
-        "github": "https://github.com/AsandaM/capstone-project.git",
-        "vercel":"https://capstone-ecommerce-3d5bf.web.app/"
-      },
-      {
-        "name": "To-Do List",
-        "image":"https://asandam.github.io/images/toDoList.png",
-        "description": "Developed a To-Do List application using JavaScript. Key features include adding items to the list, deleting items, and marking items as completed by scratching them out when ticked. ",
-        "github": "https://github.com/AsandaM/toDoList.git",
-        "vercel":"https://to-do-list-peach-eta.vercel.app/"
+        "name": "BMI Calculator",
+        "image":"https://asandam.github.io/images/bmi.png",
+        "description": "Created a BMI Calculator using JavaScript. This application allow users to input their height and weight to calculate their BMI. Key features include real-time calculations, user input validation and categorizing BMI results into different health ranges.",
+        "github":"https://github.com/AsandaM/bmi.git",
+        "vercel":"https://bmi-teal.vercel.app/"
       },
       {
         "name": "Temperature Converter",
@@ -215,13 +215,6 @@
         "description": "Developed a Temperature Converter application using JavaScript. This tool allows users to convert temperatures between Celsius, Fahrenheit, and Kelvin",
         "github": "https://github.com/AsandaM/temperature.git",
         "vercel": "https://temperature-one.vercel.app/"
-      },
-      {
-        "name": "BMI Calculator",
-        "image":"https://asandam.github.io/images/bmi.png",
-        "description": "Created a BMI Calculator using JavaScript. This application allow users to input their height and weight to calculate their BMI. Key features include real-time calculations, user input validation and categorizing BMI results into different health ranges.",
-        "github":"https://github.com/AsandaM/bmi.git",
-        "vercel":"https://bmi-teal.vercel.app/"
       },
       {
         "name": "Calculator",
@@ -243,6 +236,13 @@
         "description": "Developed a RGB-Hex Converter application using JavaScript. This tool allows users to convert RGB between hexidecimal.",
         "github": "https://github.com/AsandaM/RGBToHex.git",
         "vercel": "https://rgb-to-hex-three.vercel.app/"
+      },
+      {
+        "name": "To-Do List",
+        "image":"https://asandam.github.io/images/toDoList.png",
+        "description": "Developed a To-Do List application using JavaScript. Key features include adding items to the list, deleting items, and marking items as completed by scratching them out when ticked. ",
+        "github": "https://github.com/AsandaM/toDoList.git",
+        "vercel":"https://to-do-list-peach-eta.vercel.app/"
       }
     ]
   }
